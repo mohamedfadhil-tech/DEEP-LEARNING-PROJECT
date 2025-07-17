@@ -1,5 +1,15 @@
 # DEEP-LEARNING-PROJECT
 # 📌 Task 2 - Deep Learning Model (CODTECH Internship)
+Internship Credentials
+Company : CodTech IT Solutions
+
+Name : Mohamed Fadhil U.F
+
+Intern ID : CITSOD822
+
+Domain : Data Science
+
+Duration : Neela Santhosh
 
 This repository contains the implementation of **Task 2** of the CODTECH Data Science Internship:  
 **"Implement a deep learning model for image classification using TensorFlow or PyTorch."**

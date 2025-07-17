@@ -42,7 +42,13 @@ Due to limitations of online compilers (no support for TensorFlow), this task us
 - Runs in any Python environment (including online IDEs)
 - after running script you will get output like:
 - ![Image](https://github.com/user-attachments/assets/589472f7-4be2-449c-853f-35cbbc2c0b18)
+Done By:
 
+Mohamed Fadhil U.F
+
+Data Science Intern
+
+CodTech IT Solutions
 
 
 

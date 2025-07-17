@@ -30,6 +30,7 @@ Due to limitations of online compilers (no support for TensorFlow), this task us
 - Random train/validation accuracy outputs
 - Final simulated test accuracy display
 - Runs in any Python environment (including online IDEs)
+- after running script you will get output like:
 
 
 

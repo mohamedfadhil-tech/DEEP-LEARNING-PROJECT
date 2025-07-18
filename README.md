@@ -9,7 +9,10 @@ Intern ID : CITSOD822
 
 Domain : Data Science
 
-Duration : Neela Santhosh
+Duration : 4 weeks
+
+mentor  :neela santhosh
+
 
 This repository contains the implementation of **Task 2** of the CODTECH Data Science Internship:  
 **"Implement a deep learning model for image classification using TensorFlow or PyTorch."**
